@@ -1,4 +1,4 @@
-from uitils import *
+from utils import *
 
 import psutil
 
