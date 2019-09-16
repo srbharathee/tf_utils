@@ -1,1 +1,11 @@
+from setuptools import setup
 
+setup(name='tf_utils',
+      version='0.1',
+      description='utilities for tf2',
+      url='git@github.com:srbharathee/tf_utils.git',
+      author='srbharathee',
+      author_email='srbharathee@gmail.com',
+      license='MIT',
+      packages=['tf_utils'],
+      zip_safe=False)
